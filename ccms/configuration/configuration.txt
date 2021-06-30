@@ -1,0 +1,12 @@
+Court Case Management Systen Using HTML, PHP and MySQL
+Installation Steps(Configuration)
+1. save the file on your local system as [ccms].
+2. Put this file inside xampp/htdocs/ .
+3. Database Configuration
+Open phpmyadmin
+Create Database ccms.
+Import database ccms.sql
+Open Your browser put inside browser “http://localhost/ccms/index.html”
+Login Details
+Login Details for admin : jitendra@gmail.com/jitendra@123
+Login Details for user : raman@gmail.com/raman@123
